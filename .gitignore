@@ -114,4 +114,4 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 # DS_Store files
-.DS_Store
+**/.DS_Store
